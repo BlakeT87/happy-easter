@@ -1,0 +1,11 @@
+.main{
+    font-family: 'Architects Daughter', cursive;
+    display: flex;
+    background-color: linear-gradient(lightskyblue, rgb(136, 185, 136))
+}
+
+.egg-img{
+    width: 400px;
+    background-image: url(images/blue-egg.png);
+    background-size: cover;
+}
